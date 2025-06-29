@@ -6,7 +6,7 @@
 ; NOTA: O valor de AppId identifica exclusivamente esta aplicação.
 ; Não use o mesmo AppId em outro instalador.
 ; (Para gerar um novo GUID, clique em Tools | Generate GUID inside the IDE.)
-AppId={{C884531D-1461-4404-8253-7BBDCE87F02B}
+AppId={clique em Tools
 AppName=Chrome Driver installer
 AppVersion=1.0
 ;AppVerName=Chrome Driver installer 1.0
