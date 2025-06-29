@@ -18,4 +18,4 @@ Um instalador automático de ChromeDriver com interface gráfica que simplifica 
 
 ## 📦 Instalação
 
-Baixe o instalador `.msi` mais recente na [página de releases](https://github.com/Reginaldo-Worker/chromedriver-installer/releases) e execute-o.
+Baixe o instalador `.exe` mais recente na [página de releases](https://github.com/Reginaldo-Worker/chromedriver-installer/releases) e execute-o.
