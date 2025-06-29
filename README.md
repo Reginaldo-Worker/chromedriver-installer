@@ -6,8 +6,6 @@
 
 Um instalador automático de ChromeDriver com interface gráfica que simplifica o processo de configuração para automação web com Selenium.
 
-![Screenshot da Interface](https://via.placeholder.com/800x500.png?text=ChromeDriver+Installer+GUI)
-
 
 
 ## ✨ Funcionalidades
