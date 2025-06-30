@@ -18,4 +18,4 @@ Um instalador automático de ChromeDriver com interface gráfica que simplifica 
 
 ## 📦 Instalação
 
-Baixe o instalador `.exe` mais recente na [página de releases](https://github.com/Reginaldo-Worker/chromedriver-installer/releases) e execute-o.
+Baixe o instalador `.zip` mais recente na [página de releases](https://github.com/Reginaldo-Worker/chromedriver-installer/releases) extraia e execulte o `.exe` depois feche o instalado e o Aplicativo, e depois abra o aplicativo Chrome Driver Installer, como Adiministrador.
